@@ -1,1 +1,1 @@
-# Building-a-FastAPI-for-Sepsis-Prediction-
+Sepsis is a life-threatening condition caused by the body's response to an infection, which can lead to tissue damage, organ failure, and death if not treated promptly. Early detection and intervention are critical for improving patient outcomes and reducing mortality rates associated with sepsis. In this context, healthcare organizations are constantly seeking ways to improve their sepsis detection and management protocols.
